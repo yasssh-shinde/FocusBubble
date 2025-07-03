@@ -1,0 +1,58 @@
+{
+  "manifest_version": 3,
+  "name": "FocusBubble ✨",
+  "version": "1.0.0",
+  "description": "A cute distraction blocker with motivational quotes and Pomodoro timer 🌸",
+  "permissions": [
+    "storage",
+    "notifications",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://*.youtube.com/*",
+    "https://*.facebook.com/*",
+    "https://*.instagram.com/*",
+    "https://*.twitter.com/*",
+    "https://*.x.com/*",
+    "https://*.tiktok.com/*",
+    "https://*.reddit.com/*",
+    "https://*.netflix.com/*",
+    "https://*.twitch.tv/*",
+    "https://*.pinterest.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "FocusBubble ✨",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.youtube.com/*",
+        "https://*.facebook.com/*",
+        "https://*.instagram.com/*",
+        "https://*.twitter.com/*",
+        "https://*.x.com/*",
+        "https://*.tiktok.com/*",
+        "https://*.reddit.com/*",
+        "https://*.netflix.com/*",
+        "https://*.twitch.tv/*",
+        "https://*.pinterest.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
