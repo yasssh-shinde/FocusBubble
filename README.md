@@ -1,7 +1,7 @@
 # 🚀 FocusBubble – Stay Focused, Stay Inspired  
 
 <div align="center">
-  <img src="icon.png" alt="FocusBubble Logo" width="128" height="128">
+  <img src="icon48.png" alt="FocusBubble Logo" width="128" height="128">
   
   **A powerful Chrome extension to eliminate distractions, set meaningful goals, and supercharge your productivity with an integrated Pomodoro timer.**
   
