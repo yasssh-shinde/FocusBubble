@@ -466,7 +466,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
   
   Passionate about creating tools that solve real-world problems and enhance productivity. Currently specializing in MERN stack development with a focus on user experience and performance optimization.
   
-  🔗 [LinkedIn](https://www.linkedin.com/in/yasssh-shinde) • [GitHub](https://github.com/yasssh-shinde) • [Portfolio](https://yasssh-shinde.dev)
+  🔗 [LinkedIn](https://www.linkedin.com/in/yasssh-shinde) • [GitHub](https://github.com/yasssh-shinde) • [Portfolio](https://yasssh-shinde.github.io/yashshinde.github.io/)
 </div>
 
 ---
