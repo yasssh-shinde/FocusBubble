@@ -65,14 +65,15 @@
 ## 🖥️ Screenshots
 
 <div align="center">
-  
-### 🎯 Popup Interface
-*Clean, intuitive design for goal setting and timer management*
-![Popup UI](screenshots/popup-ui.png)
 
-### 🧘‍♂️ Blocked Page Experience
-*Motivational quotes replace distracting content*
-![Blocked Page](screenshots/block-page.png)
+### 🎯 Popup Interface  
+*Clean, intuitive design for goal setting and timer management*  
+<img src="https://github.com/yasssh-shinde/FocusBubble/blob/main/Screenshots/block-page.png?raw=true" width="600"/>
+
+
+### 🧘‍♂️ Blocked Page Experience  
+*Motivational quotes replace distracting content*  
+<img src="https://github.com/yasssh-shinde/FocusBubble/blob/main/Screenshots/popup-ui.png?raw=true" width="600"/>
 
 </div>
 
